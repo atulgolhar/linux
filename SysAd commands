@@ -1,0 +1,6 @@
+ls
+man
+echo
+touch
+cat
+{ pwd; ls; time; date; } >> sample_file
